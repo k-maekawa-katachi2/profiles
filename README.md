@@ -16,7 +16,7 @@ __採用担当者さま__
 
 ![lowtitle](https://user-images.githubusercontent.com/96406041/150726937-2e3654f9-fd59-4b52-84a5-dcf2f9be46d7.PNG)
 
-約１９年、鍼灸整骨院の業界で働いてきました。その経験にて事前に簡単な診断が出来たらいいなと思い作成してみました。
+約１９年、鍼灸整骨院の業界で働いてきました。そのキャリアを基に　__「自分で出来る簡単な腰痛診断」__　を作成してみました。
 <br>
 【ポートフォリオURL】　⇒　https://github.com/k-maekawa-katachi2/lowbackpain
 
@@ -26,7 +26,7 @@ __採用担当者さま__
 ### ２，DOBONGAME
 
 ![dobon_top](https://user-images.githubusercontent.com/96406041/149598323-247c107c-a10a-4ff0-91e3-3e2938f2a903.PNG)
-コロナによる自粛生活が多い中、子供たちとテーブルゲームをしていた「どぼんしりとり」をオンライン式に仕上げてみました。
+自粛生活が多い中、 __「オンラインで楽しめるしりとり」__ として作成。普通のしりとりではなく、デーモンが設定した言葉で終わる単語を言ったら負けというルールのゲームを作りました。
 <br>
 【ポートフォリオURL】　⇒ https://github.com/k-maekawa-katachi2/dobongame
 
@@ -74,7 +74,7 @@ https://qiita.com/restarmk
 ## 【連絡先】　
 ●　LINE => @167lvwm 
 <br>
-●　または、私が送信してきたメールアドレスに返信する形でよろしくお願いいたします。
-
+●　email => maekawa.restarcrew01@gmail.com
+までご連絡をお願いします。
 <br>
 以上です。
